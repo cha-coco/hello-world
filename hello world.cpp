@@ -2,7 +2,10 @@
 using namespace std;
 int main()
 {
-    cout<<"hello beautiful world!!"<<endl;
-    cout<<"how are you???";
+    int a,b;
+    cout<<"enter two numbers";
+    cin>>a>>b;
+    a+=b;
+    cout<<"sum="<<a;
     return 0;
 }
