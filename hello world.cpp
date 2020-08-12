@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"hello beautiful world";
+    cout<<"hello beautiful world!!"<<endl;
+    cout<<"how are you???";
     return 0;
 }
